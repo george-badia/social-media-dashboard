@@ -2,7 +2,7 @@
 
 This is a responsive social media dashboard built using **HTML 5**, **CSS 3**, and **JavaScript**.
 
-![plot](https://github.com/george-badia/social-media-dashboard/blob/master/images/large.png?raw=true)
+![VSCode Screenshot](images/large.png)
 
 ## Table of Contents
 
@@ -22,7 +22,7 @@ Install the following prerequisites:
 
 To run the application, start the **Live Server** by clicking **Go Live** in the bottom right corner of the status bar in Visual Studio Code. This action will load the website in your default web browser.
 
-![plot](https://github.com/george-badia/social-media-dashboard/blob/master/images/vscode.png?raw=true)
+![VSCode Screenshot](images/vscode.png)
 
 ## View the application
 
